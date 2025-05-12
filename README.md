@@ -2,10 +2,10 @@
 ML repo aimed at researching handwriting recognition for digitizing historical census records.
 
 ## Install with terminal command:
-
+```
 source .mlgenealogy/bin/activate         
 pip install -r requirements.txt
-
+```
 ### Purpose
 The goal is train a simple model to recognize and transcribe text of any font. Eventually this will be extended to recognize hand written characters.
 
